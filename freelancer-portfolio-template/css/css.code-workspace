@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../img"
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "lib",
+			"path": "../lib"
+		},
+		{
+			"name": "mail",
+			"path": "../mail"
+		},
+		{
+			"name": "scss",
+			"path": "../scss"
+		}
+	]
+}
